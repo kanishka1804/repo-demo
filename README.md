@@ -1,2 +1,3 @@
 # repo-demo
-this is my first github repo
+This is my first github repo.
+Author - Kanishka 
